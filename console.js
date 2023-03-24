@@ -8,3 +8,4 @@ return null;
 main()
 
 // console.log(main) beeeeheheh
+console.log("Hello World") // test 3
